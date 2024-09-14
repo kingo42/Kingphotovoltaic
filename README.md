@@ -55,8 +55,7 @@
     </footer>
 
     <script src="script.js"></script>
-</body>
-</html>
+</body></html>
 body {
     font-family: Arial, sans-serif;
     margin: 0;
