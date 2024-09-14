@@ -7,7 +7,7 @@
     <title>Kingsphotovoltaic - Solar Energy Solutions</title>
     <link rel="stylesheet" href="styles.css">
 </head>
-<body>
+  <body>
     <header>
         <div class="logo">Kingsphotovoltaic</div>
         <nav>
